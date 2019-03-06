@@ -1,23 +1,14 @@
+# Web Scrapping Projects
 
-## Setting Up Virtual Environment 
+This repo contains several web scrapping projects that I did with python.
 
-Initiate the virtual environment and activate it:
-```bash
-python3 -m venv scrapping
-source scrapping/bin/activate
-```
+| Project Folder | Description |
+|---------------|-------------|
+|./blog-posts| Download all the blog posts on the [Academie Duello Blog](https://www.academieduello.com/news-blog/)  as markdown files|
 
-Install packages:
-```bash
-pip install requests
-```
 
-Generate/update requirements.txt file:
-```bash
-pip freeze > requirements.txt
-```
+## Cheat Sheets 
+In the `./_cheat-sheet_` folder, you can find my notes on various topics related to python development:
 
-To install the packages specified in requirements.txt:
-```bash
- pip install -r requirements.txt
-```
+- Regex
+- Setting up virtual environment

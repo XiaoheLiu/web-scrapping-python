@@ -1,4 +1,10 @@
 {
   "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true
+  "python.linting.enabled": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#FFF",
+    "titleBar.inactiveForeground": "#DDD",
+    "titleBar.activeBackground": "#006b9c",
+    "titleBar.inactiveBackground": "#005c91"
+  }
 }
