@@ -6,5 +6,6 @@
     "titleBar.inactiveForeground": "#DDD",
     "titleBar.activeBackground": "#006b9c",
     "titleBar.inactiveBackground": "#005c91"
-  }
+  },
+  "python.pythonPath": "scrapping/bin/python"
 }

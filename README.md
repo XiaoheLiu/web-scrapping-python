@@ -4,7 +4,8 @@ This repo contains several web scrapping projects that I did with python.
 
 | Project Folder | Description |
 |---------------|-------------|
-|./blog-posts| Download all the blog posts on the [Academie Duello Blog](https://www.academieduello.com/news-blog/)  as markdown files|
+|./blog-posts| Download all the blog posts on the [Academie Duello Blog](https://www.academieduello.com/news-blog/)  as markdown files.|
+|./unsplash-photo-download| Search then download a specific number of photos through the [unsplash API](https://unsplash.com/developers).|
 
 
 ## Cheat Sheets 

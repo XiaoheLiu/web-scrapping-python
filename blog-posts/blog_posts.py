@@ -28,7 +28,7 @@ class downloader(object):
       if each.parent.name == 'h2':
         self.names.append(each.string)
         self.urls.append(each.get('href'))
-        self.nums += 1;
+        self.nums += 1
   
   def get_contents(self, target):
     """
