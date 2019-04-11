@@ -3,6 +3,6 @@
 __pycache__
 /static
 .DS_Store
-scrapping
 /Duello
 secret.py
+.env

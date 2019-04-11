@@ -2,10 +2,15 @@
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#FFF",
-    "titleBar.inactiveForeground": "#DDD",
+    "titleBar.activeForeground": "#f0e767",
+    "titleBar.inactiveForeground": "#ebdf75",
     "titleBar.activeBackground": "#006b9c",
     "titleBar.inactiveBackground": "#005c91"
   },
-  "python.pythonPath": "scrapping/bin/python"
+  "workbench.colorTheme": "Noctis Lux",
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "python.pythonPath":
+    "/Users/athena/.local/share/virtualenvs/python-scripts-XKlPfbr6/bin/python"
 }

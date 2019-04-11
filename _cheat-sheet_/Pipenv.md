@@ -1,0 +1,21 @@
+# Use Pipenv to Manage Virtual Environment
+
+- First, install pipenv `pip3 install pipenv`
+- cd to project directory and `pipenv install <package_name>`
+- To activate this project's virtualenv, run `pipenv shell`. venv will be automatically created.
+- Alternatively, run a command inside the virtualenv with `pipenv run <command>`.
+- To exit the environment `exit`
+- To install packages in requirements.txt: `pipenv install -r requirements.txt`
+- Install a package as dev dependency: `pipenv install pytest --dev`
+- To generate a requirement.txt file: `pipenv lock -r`
+- Uninstall package: `pipenv uninstall <package_name>`
+- Remove venv: `pipenv --rm`
+- Update venv with new Pipfile: `pipenv install`
+- Check location of the venv `pipenv --venv`
+- Check safety issues: `pipenv check`
+- Look at dependency trees of packages: `pipenv graph`
+- Lock the package versions: `pipenv lock`
+- Install packages using the lock file: `pipenv install --ignore-pipfile`
+- Set environment variables:
+  - Create `.env` file and add some env variables, eg. `SECRET="123"`
+  - Access to them using the os module: `os.environ.get('SECRET')`
