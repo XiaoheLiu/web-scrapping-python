@@ -11,9 +11,10 @@ This repo contains a variety of python projects that I did, including web scrapp
 
 ## Miscellaneous
 
-| Project Folder | Description                                                              |
-| -------------- | ------------------------------------------------------------------------ |
-| birthday       | Calculate days lived, next birthday days and days towards next birthday. |
+| Project Folder   | Description                                                              |
+| ---------------- | ------------------------------------------------------------------------ |
+| birthday         | Calculate days lived, next birthday date and days towards next birthday. |
+| pdf-manipulation | Work with PDFs using PyPDF2, eg. merge PDFs.                             |
 
 ## Cheat Sheets
 

@@ -6,3 +6,4 @@ __pycache__
 /Duello
 secret.py
 .env
+.venv
